@@ -20,11 +20,11 @@ To get started with these coding challenges, follow these steps:
    git clone https://github.com/yourusername/wipro.git
    
 2. **Navigate to the Repository**
-    ```bash```
+    ```bash
     cd wipro
   
 3. Compile and Run a Java File
  
-  ```bash```
+  ```bash
   javac ChallengeFileName.java
   java ChallengeFileName
