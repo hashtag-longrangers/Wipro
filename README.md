@@ -26,5 +26,5 @@ To get started with these coding challenges, follow these steps:
 3. Compile and Run a Java File
  
   ```bash
-  javac ChallengeFileName.java
-  java ChallengeFileName
+     javac ChallengeFileName.java
+     java ChallengeFileName
